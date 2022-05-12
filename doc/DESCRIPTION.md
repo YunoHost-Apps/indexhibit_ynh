@@ -7,5 +7,3 @@ From its inception, the project wanted to grant users a simple and quick way to 
 Over the years Indexhibit was featured in design magazines and was part of art school curriculums. Vaska has conducted Indexhibit workshops on three continents.
 
 Indexhibit is not a 'platform' and there is no tracking or selling of your data. You do you.
-
-Indexhibit is free and open source. You can download Indexhibit by creating an account.
