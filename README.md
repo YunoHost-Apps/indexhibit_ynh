@@ -25,8 +25,6 @@ Over the years Indexhibit was featured in design magazines and was part of art s
 
 Indexhibit is not a 'platform' and there is no tracking or selling of your data. You do you.
 
-Indexhibit is free and open source. You can download Indexhibit by creating an account.
-
 **Shipped version:** 2.1.6~ynh1
 
 **Demo:** https://demo.example.com
@@ -37,13 +35,11 @@ Indexhibit is free and open source. You can download Indexhibit by creating an a
 
 ## Disclaimers / important information
 
-Post install:
-`www.yourdomain.com/ndxzstudio/install.php` to finish the install
+Post install: `http://yourdomain.com/ndxzstudio/install.php` to finish the install.
 
-Database credentials are sent to the administrator's email address
+Database credentials are sent to the administrator's email address.
 
-Admin area:
-`http://yourdomain.com/ndxz-studio` (where yourdomain.com is your domain)
+Admin area: `http://yourdomain.com/ndxz-studio` (where yourdomain.com is your domain)
 
 
 ## Documentation and resources
