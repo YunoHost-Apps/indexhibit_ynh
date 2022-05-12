@@ -1,0 +1,51 @@
+{
+    "name": "Indexhibit",
+    "id": "indexhibit",
+    "packaging_format": 1,
+    "description": {
+        "en": "Archetypal portfolio CMS for everybody",
+        "fr": "CMS de portfolio archétypal pour tout le monde"
+    },
+    "version": "2.1.6~ynh1",
+    "url": "https://www.indexhibit.org",
+    "upstream": {
+        "license": "free",
+        "website": "https://www.indexhibit.org",
+        "demo": "https://demo.example.com",
+        "admindoc": "https://forum.indexhibit.org/tutorials/getting-started/installation/",
+        "code": "https://github.com/Indexhibit/indexhibit"
+    },
+    "license": "free",
+    "maintainer": {
+        "name": "John doe",
+        "email": "john.doe@example.com"
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "php8.0-fpm",
+        "mysql"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "example": "/indexhibit",
+                "default": "/indexhibit"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
