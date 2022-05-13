@@ -31,7 +31,7 @@ Indexhibit is not a 'platform' and there is no tracking or selling of your data.
 
 ## Screenshots
 
-![](./doc/screenshots/example.jpg)
+![](./doc/screenshots/146_indexhibit.png)
 
 ## Disclaimers / important information
 
