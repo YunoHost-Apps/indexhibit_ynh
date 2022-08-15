@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Indexhibit for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Working status](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)  
 [![Install Indexhibit with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -27,11 +27,12 @@ Indexhibit is not a 'platform' and there is no tracking or selling of your data.
 
 **Shipped version:** 2.1.6~ynh1
 
+
 **Demo:** https://demo.example.com
 
 ## Screenshots
 
-![](./doc/screenshots/146_indexhibit.png)
+![Screenshot of Indexhibit](./doc/screenshots/146_indexhibit.png)
 
 ## Disclaimers / important information
 
@@ -44,21 +45,22 @@ Admin area: `http://yourdomain.com/ndxz-studio` (where `yourdomain.com` is your 
 
 ## Documentation and resources
 
-* Official app website: https://www.indexhibit.org
-* Official admin documentation: https://forum.indexhibit.org/tutorials/getting-started/installation/
-* Upstream app code repository: https://github.com/Indexhibit/indexhibit
-* YunoHost documentation for this app: https://yunohost.org/app_indexhibit
-* Report a bug: https://github.com/YunoHost-Apps/indexhibit_ynh/issues
+* Official app website: <https://www.indexhibit.org>
+* Official admin documentation: <https://forum.indexhibit.org/tutorials/getting-started/installation/>
+* Upstream app code repository: <https://github.com/Indexhibit/indexhibit>
+* YunoHost documentation for this app: <https://yunohost.org/app_indexhibit>
+* Report a bug: <https://github.com/YunoHost-Apps/indexhibit_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/indexhibit_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/indexhibit_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade indexhibit -u https://github.com/YunoHost-Apps/indexhibit_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>
