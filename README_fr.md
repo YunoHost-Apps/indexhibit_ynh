@@ -25,10 +25,7 @@ Over the years Indexhibit was featured in design magazines and was part of art s
 
 Indexhibit is not a 'platform' and there is no tracking or selling of your data. You do you.
 
-**Version incluse :** 2.1.6~ynh1
-
-
-**Démo :** https://demo.example.com
+**Version incluse :** 2.1.6~ynh1
 
 ## Captures d'écran
 

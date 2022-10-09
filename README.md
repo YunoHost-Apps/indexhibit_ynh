@@ -27,9 +27,6 @@ Indexhibit is not a 'platform' and there is no tracking or selling of your data.
 
 **Shipped version:** 2.1.6~ynh1
 
-
-**Demo:** https://demo.example.com
-
 ## Screenshots
 
 ![Screenshot of Indexhibit](./doc/screenshots/146_indexhibit.png)
