@@ -9,13 +9,12 @@
     "version": "2.1.6~ynh1",
     "url": "https://www.indexhibit.org",
     "upstream": {
-        "license": "free",
+        "license": "GPL-3.0-only",
         "website": "https://www.indexhibit.org",
-        "demo": "https://demo.example.com",
         "admindoc": "https://forum.indexhibit.org/tutorials/getting-started/installation/",
         "code": "https://github.com/Indexhibit/indexhibit"
     },
-    "license": "free",
+    "license": "GPL-3.0-only",
     "maintainer": {
         "name": "",
         "email": ""
