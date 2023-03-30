@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Indexhibit for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Working status](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Working status](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
+
 [![Install Indexhibit with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
 *[Lire ce readme en français.](./README_fr.md)*

@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Indexhibit pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
+
 [![Installer Indexhibit avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Indexhibit rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Indexhibit rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Indexhibit is a pioneering, influential, web-based content management system (CMS), founded in 2006 by Jeffery Vaska and Daniel Eatock, which is used primarily to create online portfolios (image, text and video).
 
@@ -27,9 +28,9 @@ Indexhibit is not a 'platform' and there is no tracking or selling of your data.
 
 **Version incluse :** 2.1.6~ynh1
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Indexhibit](./doc/screenshots/146_indexhibit.png)
+![Capture d’écran de Indexhibit](./doc/screenshots/146_indexhibit.png)
 
 ## Avertissements / informations importantes
 
@@ -42,9 +43,9 @@ Admin area: `http://yourdomain.com/ndxz-studio` (where `yourdomain.com` is your 
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://www.indexhibit.org>
-* Documentation officielle de l'admin : <https://forum.indexhibit.org/tutorials/getting-started/installation/>
-* Dépôt de code officiel de l'app : <https://github.com/Indexhibit/indexhibit>
+* Site officiel de l’app : <https://www.indexhibit.org>
+* Documentation officielle de l’admin : <https://forum.indexhibit.org/tutorials/getting-started/installation/>
+* Dépôt de code officiel de l’app : <https://github.com/Indexhibit/indexhibit>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_indexhibit>
 * Signaler un bug : <https://github.com/YunoHost-Apps/indexhibit_ynh/issues>
 
@@ -60,4 +61,4 @@ ou
 sudo yunohost app upgrade indexhibit -u https://github.com/YunoHost-Apps/indexhibit_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
