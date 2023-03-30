@@ -17,29 +17,14 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 ## Vue d’ensemble
 
 Indexhibit is a pioneering, influential, web-based content management system (CMS), founded in 2006 by Jeffery Vaska and Daniel Eatock, which is used primarily to create online portfolios (image, text and video).
-
 It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
 
-From its inception, the project wanted to grant users a simple and quick way to publish, without many design constraints, allowing them to show their work with clarity in a neutral display. An early decision was made to not utilize every new web technology and keep it simple. Guiding principles were honesty, earnestness and diy.
-
-Over the years Indexhibit was featured in design magazines and was part of art school curriculums. Vaska has conducted Indexhibit workshops on three continents.
-
-Indexhibit is not a 'platform' and there is no tracking or selling of your data. You do you.
 
 **Version incluse :** 2.1.6~ynh1
 
 ## Captures d’écran
 
 ![Capture d’écran de Indexhibit](./doc/screenshots/146_indexhibit.png)
-
-## Avertissements / informations importantes
-
-Post install: `http://yourdomain.com/ndxzstudio/install.php` to finish the install.
-
-Database credentials are sent to the administrator's email address.
-
-Admin area: `http://yourdomain.com/ndxz-studio` (where `yourdomain.com` is your domain)
-
 
 ## Documentations et ressources
 
