@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Indexhibit for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Working status](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![Working status](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
+
 [![Install Indexhibit with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -16,29 +17,14 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 ## Overview
 
 Indexhibit is a pioneering, influential, web-based content management system (CMS), founded in 2006 by Jeffery Vaska and Daniel Eatock, which is used primarily to create online portfolios (image, text and video).
-
 It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
 
-From its inception, the project wanted to grant users a simple and quick way to publish, without many design constraints, allowing them to show their work with clarity in a neutral display. An early decision was made to not utilize every new web technology and keep it simple. Guiding principles were honesty, earnestness and diy.
-
-Over the years Indexhibit was featured in design magazines and was part of art school curriculums. Vaska has conducted Indexhibit workshops on three continents.
-
-Indexhibit is not a 'platform' and there is no tracking or selling of your data. You do you.
 
 **Shipped version:** 2.1.6~ynh1
 
 ## Screenshots
 
 ![Screenshot of Indexhibit](./doc/screenshots/146_indexhibit.png)
-
-## Disclaimers / important information
-
-Post install: `http://yourdomain.com/ndxzstudio/install.php` to finish the install.
-
-Database credentials are sent to the administrator's email address.
-
-Admin area: `http://yourdomain.com/ndxz-studio` (where `yourdomain.com` is your domain)
-
 
 ## Documentation and resources
 
