@@ -20,7 +20,7 @@ Indexhibit is a pioneering, influential, web-based content management system (CM
 It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
 
 
-**Version incluse :** 2.1.6~ynh1
+**Version incluse :** 2.1.2022.07.28~ynh1
 
 ## Captures d’écran
 
