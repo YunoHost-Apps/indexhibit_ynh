@@ -5,7 +5,7 @@ name = "Indexhibit"
 description.en = "Archetypal portfolio CMS for everybody"
 description.fr = "CMS de portfolio archétypal pour tout le monde"
 
-version = "2.1.6~ynh1"
+version = "2.1.2022.07.28~ynh1"
 
 maintainers = [ "eric_G" ]
 
@@ -39,8 +39,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/Indexhibit/indexhibit/archive/fb0ac9e0771745c2c555a0c2fb25b32930592d17.tar.gz"
-        sha256 = "4520cfa7e1636211f75f1977c05619d8f8926ea4557152bf9bf35a39044b9150"
+        url = "https://github.com/Indexhibit/indexhibit/archive/c6d836b54b7e1a8a18b495e146d26894e36ac3a0.tar.gz"
+        sha256 = "144ba056bf13e30622f13e6e8cf30068b16970ff4db57e17fd22f5ba2462d196"
         autoupdate.strategy = "latest_github_commit"
         autoupdate.force_version = "2.1.%Y.%m.%d"
 
