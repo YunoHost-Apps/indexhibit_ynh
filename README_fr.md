@@ -16,11 +16,10 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Indexhibit is a pioneering, influential, web-based content management system (CMS), founded in 2006 by Jeffery Vaska and Daniel Eatock, which is used primarily to create online portfolios (image, text and video).
-It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
+Indexhibit est un système de gestion de contenu (CMS) pionnier et influent basé sur le Web, fondé en 2006 par Jeffery Vaska et Daniel Eatock, qui est principalement utilisé pour créer des portfolios en ligne (image, texte et vidéo).
+Il s'adresse aux créateurs indépendants d'esprit, universitaires, chercheurs, étudiants, collectionneurs, etc., qui souhaitent apprendre et gérer la présentation visuelle de leurs œuvres, à leur manière, selon leurs propres capacités.
 
-
-**Version incluse :** 2.1.6~ynh1
+**Version incluse :** 2.1.6~ynh2
 
 ## Captures d’écran
 
