@@ -5,7 +5,7 @@ name = "Indexhibit"
 description.en = "Archetypal portfolio CMS for everybody"
 description.fr = "CMS de portfolio archétypal pour tout le monde"
 
-version = "2.1.6~ynh1"
+version = "2.1.6~ynh2"
 
 maintainers = [ "eric_G" ]
 
@@ -16,7 +16,7 @@ admindoc = "https://forum.indexhibit.org/tutorials/getting-started/installation/
 code = "https://github.com/Indexhibit/indexhibit"
 
 [integration]
-yunohost = ">= 11.1.15"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -39,10 +39,10 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/Indexhibit/indexhibit/archive/fb0ac9e0771745c2c555a0c2fb25b32930592d17.tar.gz"
-        sha256 = "4520cfa7e1636211f75f1977c05619d8f8926ea4557152bf9bf35a39044b9150"
-        autoupdate.upstream = "https://github.com/Indexhibit/indexhibit"
+        url = "https://github.com/Indexhibit/indexhibit/archive/533900856ae0887a054f26f207d3ba466a986ab1.tar.gz"
+        sha256 = "1022cb6594fe20dc9945c8425faff955715008c086a709ffb475abe671cb9589"
         autoupdate.strategy = "latest_github_commit"
+        autoupdate.force_version = "2.1.%Y.%m.%d"
 
     [resources.system_user]
 
