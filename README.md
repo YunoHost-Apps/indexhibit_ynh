@@ -31,7 +31,7 @@ It is intended for independent-minded creators, academics, researchers, students
 * Official app website: <https://www.indexhibit.org>
 * Official admin documentation: <https://forum.indexhibit.org/tutorials/getting-started/installation/>
 * Upstream app code repository: <https://github.com/Indexhibit/indexhibit>
-* YunoHost documentation for this app: <https://yunohost.org/app_indexhibit>
+* YunoHost Store: <https://apps.yunohost.org/app/indexhibit>
 * Report a bug: <https://github.com/YunoHost-Apps/indexhibit_ynh/issues>
 
 ## Developer info
