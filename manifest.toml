@@ -16,11 +16,14 @@ admindoc = "https://forum.indexhibit.org/tutorials/getting-started/installation/
 code = "https://github.com/Indexhibit/indexhibit"
 
 [integration]
-yunohost = ">= 11.1.19"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "50M"
 ram.build = "50M"
 ram.runtime = "50M"
@@ -52,7 +55,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "mariadb-server php8.0-fpm php8.0-mysql"
+    packages = "mariadb-server, php8.2-fpm, php8.2-mysql"
 
     [resources.database]
     type = "mysql"
