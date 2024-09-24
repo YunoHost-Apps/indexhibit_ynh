@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Indexhibit
 
-[![集成程度](https://dash.yunohost.org/integration/indexhibit.svg)](https://dash.yunohost.org/appci/app/indexhibit) ![工作状态](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/indexhibit.svg)](https://ci-apps.yunohost.org/ci/apps/indexhibit/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
 
 [![使用 YunoHost 安装 Indexhibit](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
@@ -20,7 +20,7 @@ Indexhibit is a pioneering, influential, web-based content management system (CM
 It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
 
 
-**分发版本：** 2.1.2024.03.27~ynh1
+**分发版本：** 2.1.2024.03.27~ynh2
 
 ## 截图
 
