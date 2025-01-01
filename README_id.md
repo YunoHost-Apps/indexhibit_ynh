@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Indexhibit untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/indexhibit.svg)](https://ci-apps.yunohost.org/ci/apps/indexhibit/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/indexhibit.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/indexhibit.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/indexhibit)](https://ci-apps.yunohost.org/ci/apps/indexhibit/)
+![Status kerja](https://apps.yunohost.org/badge/state/indexhibit)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/indexhibit)
 
 [![Pasang Indexhibit dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=indexhibit)
 
@@ -20,7 +22,7 @@ Indexhibit is a pioneering, influential, web-based content management system (CM
 It is intended for independent-minded creators, academics, researchers, students, collectors, et al., who wish to learn how and manage the visual display of their works, on their own terms, according to their own abilities.
 
 
-**Versi terkirim:** 2.1.2024.03.27~ynh2
+**Versi terkirim:** 2.1.2024.03.27~ynh3
 
 ## Tangkapan Layar
 

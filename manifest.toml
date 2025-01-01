@@ -5,7 +5,7 @@ name = "Indexhibit"
 description.en = "Archetypal portfolio CMS for everybody"
 description.fr = "CMS de portfolio archétypal pour tout le monde"
 
-version = "2.1.2024.03.27~ynh2"
+version = "2.1.2024.03.27~ynh3"
 
 maintainers = [ "eric_G" ]
 
@@ -16,13 +16,12 @@ admindoc = "https://forum.indexhibit.org/tutorials/getting-started/installation/
 code = "https://github.com/Indexhibit/indexhibit"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.0.9"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
 ldap = false
-
 sso = false
 
 disk = "50M"
@@ -57,7 +56,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "mariadb-server, php8.2-fpm, php8.2-mysql"
+    packages = "mariadb-server, php8.3-fpm, php8.3-mysql"
 
     [resources.database]
     type = "mysql"
