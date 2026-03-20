@@ -11,7 +11,7 @@ It shall NOT be edited by hand.
 Archetypal portfolio CMS for everybody
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://www.indexhibit.org)
-[![Version: 2.1.2024.03.27~ynh3](https://img.shields.io/badge/Version-2.1.2024.03.27~ynh3-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/indexhibit/)
+[![Version: 2.1.2024.03.27~ynh4](https://img.shields.io/badge/Version-2.1.2024.03.27~ynh4-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/indexhibit/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/indexhibit"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
