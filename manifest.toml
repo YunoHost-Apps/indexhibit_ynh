@@ -5,7 +5,7 @@ name = "Indexhibit"
 description.en = "Archetypal portfolio CMS for everybody"
 description.fr = "CMS de portfolio archétypal pour tout le monde"
 
-version = "2.1.2024.03.27~ynh3"
+version = "2.1.2024.03.27~ynh4"
 
 maintainers = [ "eric_G" ]
 
@@ -16,7 +16,7 @@ admindoc = "https://forum.indexhibit.org/tutorials/getting-started/installation/
 code = "https://github.com/Indexhibit/indexhibit"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
